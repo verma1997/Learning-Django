@@ -1,0 +1,40 @@
+h1{
+	text-align: center;
+	font-family: 'Kavivanar', cursive;
+}
+
+.art{
+	margin: auto;
+}
+
+td{
+	background-color: red;
+	height: 300px;
+	width: 150px;
+}
+
+#one{
+	background-color: #50514F;
+	/*padding: 0px 2px 0px 0px;*/
+	border: 8px solid white;
+}
+
+#two{
+	background-color: #F25F5C;
+	border: 8px solid white;
+}
+
+#three{
+	background-color: #FFE066;
+	border: 8px solid white;
+}
+
+#four{
+	background-color: #247BA0;
+	border: 8px solid white;
+}
+
+#five{
+	background-color: #70C1B3;
+	border: 8px solid white;
+}
